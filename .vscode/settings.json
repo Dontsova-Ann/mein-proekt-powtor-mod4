@@ -1,0 +1,7 @@
+{
+  "workbench.editor.restoreViewState": true,
+  "workbench.editor.scrollToSwitchTabs": true,
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.decorations.colors": true,
+  "workbench.editor.empty.hint": "text"
+}
