@@ -299,6 +299,9 @@ address {
 .list-color {
   width: 40px;
   height: 40px;
+  /* fill: #fff; */
+}
+.team-icon-list {
   fill: #fff;
 }
 .icon-list:hover,
